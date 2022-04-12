@@ -9,6 +9,48 @@
 }
 
 body {
-    background-color: white;
+    background-color:bisque;
 }
 
+.font-lgr {
+    font-size:larger;
+}
+
+.lbl {
+    font-weight: bold;
+}
+
+.label-center-left {
+    margin-left: 95px;
+}
+
+    .left-size {
+        width: 250px;
+    }
+
+.label-center-right {
+    margin-right: 95px;
+    float: right;
+}
+
+    .right-size {
+        float: right;
+        width: 250px;
+    }
+
+.black-op-1 {
+    background-color: black;
+    opacity: 1;
+}
+
+.font-sml {
+    font-size:18px;
+}
+
+.font-smlr{
+    font-size: 15px;
+}
+
+.font-huge {
+    font-size:xx-large;
+}

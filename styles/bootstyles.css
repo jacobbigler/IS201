@@ -1,3 +1,7 @@
+.nav {
+  padding-top: 10px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,3 +25,56 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+.main {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: rgb(247, 247, 247);
+}
+
+.footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #333;
+  color: white;
+  text-align:center;
+}
+
+.footer-text {
+  font-size: 18px;
+}
+
+
+body {
+  background-color: rgb(47, 255, 203);
+}
+
+.question {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.comment {
+  font-size: 17px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.subText {
+  font-size: 17px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.link {
+  color:#111;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
